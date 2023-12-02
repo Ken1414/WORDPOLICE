@@ -32,9 +32,9 @@ If the conversation contains prohibited words
 will be deleted in response.
 
 
-*The following is a scene with prohibited words added.
-　　　"!add_word a"
-　　　"Forbidden word "a" added."
+*The following is a scene with prohibited words added.<br>
+　　　"!add_word a"<br>
+　　　"Forbidden word "a" added."<br>
 <img width="305" alt="スクリーンショット 2023-12-02 10 56 04" src="https://github.com/Ken1414/WordPOLICE__DiscordBOT/assets/116622288/6604e47b-9ffe-4bf4-8d84-94411b26ec0a">
 
 
